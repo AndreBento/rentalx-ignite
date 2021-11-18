@@ -24,3 +24,5 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [Eslint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
 - [EditorConfig](https://editorconfig.org/)
+- [Docker](https://docs.docker.com/)
+- [Docker Compose](https://docs.docker.com/compose/)  
